@@ -1,0 +1,24 @@
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    margin-left: 1.5rem;
+    color: rgb(0,100,0);
+}
+#addThingToDo{
+    background-color: rgb(0,100,0);
+    color: #fff;
+}
+#addThingToDo:hover{
+    background-color: rgb(14, 165, 120);
+}
+.inputThingToDo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tasksUnfinished{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(0,100,0);
+    color: #fff;
+    padding-left: 1rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
